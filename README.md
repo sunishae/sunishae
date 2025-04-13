@@ -1,13 +1,10 @@
 ## 👋 Hello, I'm Haechan Jeong (정해찬)
 
-I'm a 4th-year CS student at Kyungpook National University, majoring in Global Software.  
-I’m passionate about backend development, and currently diving deep into Java, Spring Boot, and system design.  
+> 경북대학교 컴퓨터학부 4학년
+> 2000.07.03
+> Daegu,Korea
+> sunishae44@gmail.com
 
-💡 I enjoy building things that solve real problems and learning through collaboration and iteration.
-
----
-### 🧮 BAEKJOON
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hcj0703)](https://solved.ac/hcj0703/)
 
 ---
 ### 🔧 Tech Stack
@@ -15,6 +12,11 @@ I’m passionate about backend development, and currently diving deep into Java,
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+
+---
+### 🧮 BAEKJOON
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hcj0703)](https://solved.ac/hcj0703/)
 
 
 
