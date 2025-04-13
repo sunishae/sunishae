@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hello, I'm Haechan Jeong (정해찬)
 
-<!--
-**sunishae/sunishae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-year CS student at Kyungpook National University, majoring in Global Software.  
+I’m passionate about backend development, and currently diving deep into Java, Spring Boot, and system design.  
 
-Here are some ideas to get you started:
+💡 I enjoy building things that solve real problems and learning through collaboration and iteration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+
+
