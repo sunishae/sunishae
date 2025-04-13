@@ -6,6 +6,7 @@ I’m passionate about backend development, and currently diving deep into Java,
 💡 I enjoy building things that solve real problems and learning through collaboration and iteration.
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunishae)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔧 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
