@@ -6,8 +6,10 @@ I’m passionate about backend development, and currently diving deep into Java,
 💡 I enjoy building things that solve real problems and learning through collaboration and iteration.
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunishae)](https://github.com/anuraghazra/github-readme-stats)
+### 🧮 BAEKJOON
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hcj0703)](https://solved.ac/hcj0703/)
 
+---
 ### 🔧 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
