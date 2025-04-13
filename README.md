@@ -1,14 +1,12 @@
 ## 👋 Hello, I'm Haechan Jeong (정해찬)
 
-> 경북대학교 컴퓨터학부 4학년
+> 💻 **Backend Engineer**
 
-> 2000.07.03
+> 🏫 Kyungpook National University
 
-> Daegu,Korea
+> 🎓 Major in Global Software, B.S. in **Computer Science**
 
-> sunishae44@gmail.com
-
-
+> 🎂 Born in July 3, 2000
 
 ---
 ### 🔧 Tech Stack
